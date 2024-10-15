@@ -18,7 +18,7 @@ const About = () => {
 
               <span className="w-99">
                 <h1 className="text-xl md:text-2xl font-semibold leading-normal">
-                  Html
+                  Frontend Developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
                   I am a passionate frontend developer with 3 months of hands-on
