@@ -18,7 +18,7 @@ const About = () => {
 
               <span className="w-99">
                 <h1 className="text-xl md:text-2xl font-semibold leading-normal">
-                  Frontend developer
+                  Html
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
                   I am a passionate frontend developer with 3 months of hands-on
@@ -39,7 +39,7 @@ const About = () => {
 
               <span className="w-96">
                 <h1 className="text-xl md:text-2xl font-semibold leading-normal">
-                  Database developer
+                  Css
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -52,7 +52,37 @@ const About = () => {
 
               <span className="w-96">
                 <h1 className="text-xl md:text-2xl font-semibold leading-normal">
-                  Backend developer
+                  Javascript
+                </h1>
+                <p className="text-sm md:text-md leading-tight">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Maiores explicabo deserunt asperiores quasi, vitae blanditiis
+                  perferendis
+                </p>
+              </span>
+            </div>
+
+            <div className="flex gap-3 py-4">
+              <IoArrowForward size={30} className="mt-1" />
+
+              <span className="w-96">
+                <h1 className="text-xl md:text-2xl font-semibold leading-normal">
+                  Reactjs
+                </h1>
+                <p className="text-sm md:text-md leading-tight">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Maiores explicabo deserunt asperiores quasi, vitae blanditiis
+                  perferendis
+                </p>
+              </span>
+            </div>
+
+            <div className="flex gap-3 py-4">
+              <IoArrowForward size={30} className="mt-1" />
+
+              <span className="w-96">
+                <h1 className="text-xl md:text-2xl font-semibold leading-normal">
+                  Tailwind Css
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
